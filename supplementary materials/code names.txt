@@ -1,0 +1,261 @@
+Acoustic Code
+Auditory Code
+Actin code
+Adenylation code
+Adhesion code
+Allosteric code
+Angiotensin code
+Antibiotic resistance code
+Apoptosis code
+Archetype codes
+Area code
+Arrestin code
+Assembly code
+Auxin code
+Axon guidance code
+BAFF code
+Bile code
+Binaural code
+Bioelectric code
+Biosynthetic code
+Body plan code
+Brain code
+Cadherin code
+Calcium code
+Cancer code
+Cell access code
+Cell surface code
+Cell wall code
+Cerebral resistance code
+Chaperone code
+Checkpoint code
+Chitin code
+Chromatin code
+Chromosome code
+Circadian codes
+Circular ribosome code
+Cis-regulatory transcription code
+CKD code
+Coactivator code
+Cohesin code
+Communication code
+Compartment code
+Connexin code
+Cooperation codes
+Coregulator code
+Cryptic code
+CTCF code
+CTD code
+Cybernetic code
+Cytokine code
+Cytoskeleton code
+Dance code
+Defence Code
+Differentiation code
+Discriminator code
+DNA codes
+DNA-binding code
+Domain code
+Ecdysone code
+Ecological codes
+Endocrine codes
+Endocytosis codes
+Epigenetic code – A (general)
+Epigenetic code – B (behavior)
+Epitranscriptomic code
+Error correcting code
+Export / Exit code
+Folding code
+FoxO code
+Genetic code – A (historical)
+Genetic code – B (research)
+Genetic Code – C (expanded)
+Genetic code – D (alternative)
+Genome regulatory code
+Genomic code
+Gli code
+Glioma code
+Glycomic code
+Glycosylation code
+Growth code
+GRP code
+Hearing code
+Hidden protein code
+Hippocampal code
+Histone code – A (general)
+Histone code – B (enhancer)
+Histone code – C (trans)
+Histone code – D (readers)
+Histone disease code – E (disease)
+Histone sub-code
+Homeokinetic code
+Hormone code
+HOX code – A (general)
+HOX code – B (Pattern)
+Hox code -C (disease)
+Hypothalamic code
+Identity code
+Immune code
+Importin code
+Imprinting code
+Impulsive codes
+Indole code
+Inflammation code
+Inositol phosphate code
+Invasion codes
+Ion channel code
+Irisin code
+kappaB code
+Karyotype code
+Kinase code
+Lamin code
+Language code
+Latency code
+Life cycle code
+Light code
+Lipid code
+Magnitude codes
+Mechanical code
+Meiosis codes
+Melatonin codes
+Membrane code
+Memory code
+MeshCODE
+Meta code
+Metabolic code
+Methylation code
+Microbiome code
+Microtubular code
+miRNA codes
+Mirror code
+Mitochondrial genetic code
+Mitosis codes
+Mnemonic code
+Modification code
+Modularity codes
+Molecular codes
+Morphogenetic code
+Motor neuron code
+Musical code
+Mutualism code
+Myelin code
+Navigation codes
+Neural codes – A (general)
+Neural Code – B (motion)
+Neural Code – C (perception & recognition)
+Neural code – D (tactile)
+Neural code – E (specific)
+Neural code – F (phase codes)
+Neuronal wiring code
+Neuropeptide code
+NF-kappa-B code
+Niche codes
+NKL code
+NKX code
+NLRP
+Non-ribosomal code
+Notch Code
+Nuclear signalling code
+Nucleoprotein code
+Nucleosome code
+O-GlcNAc code
+Olfactory code – A (general)
+Olfactory code – B (specific)
+Omega Code
+Organogenesis code
+Orthographic code
+Oscillation code
+Osteoarthritis code
+Osteoporosis code
+Pattern code
+Phagocytic code
+Pheromone code
+Phenotype code
+Phonological code
+Phosphatase code
+Phosphoinositide Code
+Phospholipid code
+Phosphorylation code
+Phosphoserine code
+Plant communication codes
+Polarity code
+Poly(A) code
+Polyketide code
+Population codes
+Posttranslational codes
+Prion code
+Protein folding code
+Proteomic code
+Quantum code
+Quasi-cyclic codes
+Rag GTPase dimer code
+Reading code
+Recognition code
+Recombination codes
+Regeneration code
+Redox code
+Renal code
+Repair code
+Representation code
+Retina code
+Retinoblastoma code
+RNA code
+RNAi code
+RNA recognition code
+Scent codes
+Segregation code
+Semaphorin code
+Sensory code
+SeqCode
+Sequence codes
+Serotonin code
+Sexual codes
+Signal integration code
+Signal transduction code
+Social information code
+Socio-chemical codes
+Sodium/calcium code
+Spatial code
+Speech code
+Sperm code
+Spike code
+Splicing code
+Stem cell code
+Substrate specificity code
+Sugar code
+Sulfation code
+Sulfur code
+SUMO code
+Surface code
+Survival code
+Synaptic code
+Targeting code
+Taste code
+T-cell code
+Temporal codes
+Terpene code
+Thermal code
+Tight junction code
+Time code
+Tissue code
+Tissue memory code
+Toll-like receptor codes
+Toxin code
+Toxin resistance code
+Transcription factor code
+Transcriptional codes
+Translation code
+Translocation code
+Transport codes
+Trans-regulatory
+Tubulin code
+Twist box code
+Ubiquitin code
+Vaginal code
+VEGF code
+Visual code
+Wnt code
+Wobbling code
+The Wobbling Base Pairing Code
+Word code
+Zip code

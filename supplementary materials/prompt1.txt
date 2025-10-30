@@ -1,0 +1,56 @@
+I need you to examine the attached list of biological codes (names.txt) and their corresponding references (LIST... TXT file) to carefully classify the specified code entries according to two specific criteria, with classifications strictly based on evidence from the provided references.
+Pick the codes from an ordered list provided in the attached file names.txt.
+
+For each specified code, you must:
+
+1. Assign ONE agent behavior type from this list (see definitions below):
+- Exploitative
+- Explorative 
+- Mixed
+
+Definitions:
+
+Exploitative codes are encoded rule sets that instruct biological systems on how to process information and manage internal and external resource that maintain an organism's homeostasis through distributed computation across molecular networks, energy-dependent maintenance, and scale-invariant control principles. These codes operate at multiple levels, from organelles to ecosystems, and are characterized by their ability to efficiently process environmental information to optimize survival and reproduction.
+Characteristics: Resource Optimization, Hierarchical Control, Network-Level Coordination, specilized in precision tuning of existing processes, maximize immediate fitness benefits while minimizing energy expenditure on untested solutions, Facultative exploitation, Density-dependent cooperation
+
+Explorative codes are encoded rule sets that instruct biological systems on how to process information and manage internal and external resource that seek out and generate novel genetic or molecular configurations, facilitate the discovery of new adaptive solutions through mutation, recombination, or other mechanisms of genetic variation, and enable organisms to explore and potentially adapt to new environmental niches or challenges. 
+Characteristics: Novelty Generation, Adaptive Search Mechanisms, Evolutionary Flexibility, Energy-intensive processes requiring surplus metabolic investment, Dynamic resource allocation between exploration/exploitation states, Multi-level implementation from gene networks to neural plasticity, Accept short-term fitness costs for long-term adaptation, Leverage noise/stochasticity as innovation drivers, Show frequency-dependent evolutionary dynamics in populations
+
+Mixed codes are encoded rule sets exibiting elements of both explorative and exploitative codes.
+
+
+2. Assign ONE biological level label from this list:
+- Molecular
+- Organelle
+- Cell
+- Tissue
+- Organ (when selecting this, specify which organ)
+- Organism
+- Population/Ecosystem
+
+Assign this label assuming that a biological code is a rules set representing the teleological goals assigned to a biological agent, and that this label should represent at best the level of this agent
+
+
+## Important requirements:
+
+- The exact code entries I want classified are codes 201-261
+- For each code, the reference range to use is resp. 1071, 1072-1087, 1088, 1089-1098, 1099-1100, 1101-1102, 1103-1105, 1106, 1107, 1108-1122, 1123, 1124, 1125-1127, 1128-1134, 1135-1140, 1141, 1142, 1143, 1144-1157, 1158-1161, 1162-1163, 1164-1165, 1166-1188, 1189, 1190, 1191-1210, 1211-1215, 1216-1218,1219, 1220, 1221-1229, 1230, 1231-1236, 1237-1242, 1243-1245, 1246, 1247-1248, 1249, 1250-1253, 1254-1256, 1257, 1258, 1259m 1260, 1261-1282, 1283-1300, 1301-1305, 1306-1308, 1309-1319, 1320, 1321-1337, 1338, 1339-1352, 1353, 1354, 1355-1450, 1451, 1452, 1453, 1454-1465
+- You MUST cite specific evidence from these references to support each classification
+- Provide detailed reasoning derived from the references for each label assigned
+- If references for a particular code are insufficient, note this limitation in your analysis
+
+## Output format:
+
+Present your analysis as a table with exactly these columns:
+1. Code Number (as specified in the requirements)
+2. Code Name (as shown in the names.txt file starting from entry 201 -Retinoblastoma codes- and progressively to entry 261 - Zip code)
+3. Biological Level Label (your classification)
+4. Reason for Biological Level (evidence from references)
+5. Agent Behavior Type Label (your classification)
+6. Reason for Agent Behavior Type (evidence from references)
+
+The table must include complete entries from the references and clear justifications for all classifications. Each reason field should contain specific quotes or information from the references that support your classification decision.
+DO NOT extract the codes from any file, but from the names.txt file
+DO NOT extract the references from any file but from the LIST_REFERENCES_CODES... file
+DO NOT conflate code location with agency level, underestimating cellular/organismic control hierarchies, and analyse codes assuming the agent level label as the best fit agent using the code as set of teleological goals/rules
+Code 201 is called Retinoblastoma code, pick the other code names progressively from file names.txt

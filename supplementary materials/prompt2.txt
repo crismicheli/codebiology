@@ -1,0 +1,28 @@
+Critically re-analyze the provided table of biological code classifications, focusing specifically on the "Biological Level Label" to ensure it accurately reflects the teleological agency of the code's primary user. The table includes columns for Code Number, Code Name, Biological Level Label, Reason for Biological Level, Agent Behavior Type Label, and Reason for Agent Behavior Type.
+
+Verification Task:
+
+For each code, verify if the "Biological Level Label" (Molecular, Organelle, Cell, Tissue, Organ, Organism, or Population/Ecosystem) correctly identifies the level of the biological agent whose teleological goals/rules are represented by the code. Ensure the classification prioritizes the smallest agent's level of agency, not just the code's operational location, and appropriately considers hierarchical control.
+
+Methodology:
+
+For each table entry:
+
+Review the cited references in the "Reason for Biological Level" column.
+Assess if the assigned level aligns with the teleological agent as defined above.
+Identify any mismatches between the label and the evidence.
+If a revision is needed, provide the corrected label and justify it with evidence from the original references.
+For codes 1 to 50 (see file names.txt), the references ranges (see file LIST_...) are: 
+1-6, 7-60, 61, 62-64, 65-66, 67-70, 71, 72, 73-79, 80, 81-84, 85, 86, 87, 88-92, 93, 94, 95, 96-98, 99, 100, 101, 102-104, 105-114, 115-134, 135, 136, 137, 138, 139-144, 145, 146, 147, 148-150, 151-153, 154-157, 158-174, 175, 176, 177, 178-181, 182-184, 185, 186-187, 188, 189, 190, 191-200, 201, 202-206
+
+If the original label is correct, briefly confirm its accuracy in representing the teleological agency level.
+Output Format:
+
+Present your reanalysis as a revised table with the following columns:
+Code_Number	Code_Name	Original_Biological_Level Label_Revised_Biological_Level Label_Justification
+
+
+Export to Sheets
+For the "Justification" column: If revising, provide supporting evidence from the original references. If confirming, briefly explain why the original label accurately reflects the teleological agency level.
+
+Key Consideration: Determine the primary biological entity whose goals the code serves, not merely where the code physically operates
