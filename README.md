@@ -3,7 +3,7 @@ This repository contains the project files used in the peer-reviewed paper:
 Micheli, Prinz and Gentili, Nov. 2025
 Link: https://www.sciencedirect.com/science/article/pii/S030326472500214X
 
-published in the Code Biology special issue of biosystem:
+It was published in the Code Biology special issue of biosystem:
 https://www.sciencedirect.com/special-issue/10PHC3PCN6M
 
 Cite as:
